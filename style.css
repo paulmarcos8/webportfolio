@@ -1,0 +1,31 @@
+
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	background-color: lightslategray;
+	
+}
+
+.jumbotron {
+	background: transparent; !important
+}
+
+.bg-success {
+	background-color: #a52a2a; !important
+
+}
+
+.page {
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Tinos', serif;
+	font-size: 25px;
+}
+
+footer {
+	font-size: 12px;
+}
+
+#contact {
+	background-color: #c0c0c0;
+}
